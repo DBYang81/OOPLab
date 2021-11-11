@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj3B/proj3b.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+-
+
