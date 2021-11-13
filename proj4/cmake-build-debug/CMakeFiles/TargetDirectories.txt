@@ -1,0 +1,3 @@
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug/CMakeFiles/proj4.dir
