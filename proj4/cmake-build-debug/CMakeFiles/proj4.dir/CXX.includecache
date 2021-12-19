@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/Time.cpp
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.cpp
 iostream
 -
 string
@@ -16,7 +16,13 @@ iomanip
 sstream
 -
 Time.h
-/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/Time.h
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.h
 
-/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/Time.h
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.h
+
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/lab4_main.cpp
+iostream
+-
+Time.h
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.h
 

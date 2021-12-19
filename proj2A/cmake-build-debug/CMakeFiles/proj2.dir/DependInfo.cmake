@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj2/xmltemperature_pohja.cpp" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj2/cmake-build-debug/CMakeFiles/proj2.dir/xmltemperature_pohja.cpp.o"
+  "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/xmltemperature_pohja.cpp" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/cmake-build-debug/CMakeFiles/proj2.dir/xmltemperature_pohja.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

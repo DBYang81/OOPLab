@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4"
+CMAKE_SOURCE_DIR = "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/proj4.dir/depend.make
@@ -68,29 +68,29 @@ include CMakeFiles/proj4.dir/flags.make
 
 CMakeFiles/proj4.dir/lab4_main.cpp.o: CMakeFiles/proj4.dir/flags.make
 CMakeFiles/proj4.dir/lab4_main.cpp.o: ../lab4_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/proj4.dir/lab4_main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proj4.dir/lab4_main.cpp.o -c "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/lab4_main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/proj4.dir/lab4_main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proj4.dir/lab4_main.cpp.o -c "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/lab4_main.cpp"
 
 CMakeFiles/proj4.dir/lab4_main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/proj4.dir/lab4_main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/lab4_main.cpp" > CMakeFiles/proj4.dir/lab4_main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/lab4_main.cpp" > CMakeFiles/proj4.dir/lab4_main.cpp.i
 
 CMakeFiles/proj4.dir/lab4_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/proj4.dir/lab4_main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/lab4_main.cpp" -o CMakeFiles/proj4.dir/lab4_main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/lab4_main.cpp" -o CMakeFiles/proj4.dir/lab4_main.cpp.s
 
 CMakeFiles/proj4.dir/Time.cpp.o: CMakeFiles/proj4.dir/flags.make
 CMakeFiles/proj4.dir/Time.cpp.o: ../Time.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/proj4.dir/Time.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proj4.dir/Time.cpp.o -c "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/Time.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/proj4.dir/Time.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/proj4.dir/Time.cpp.o -c "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.cpp"
 
 CMakeFiles/proj4.dir/Time.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/proj4.dir/Time.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/Time.cpp" > CMakeFiles/proj4.dir/Time.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.cpp" > CMakeFiles/proj4.dir/Time.cpp.i
 
 CMakeFiles/proj4.dir/Time.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/proj4.dir/Time.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/Time.cpp" -o CMakeFiles/proj4.dir/Time.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.cpp" -o CMakeFiles/proj4.dir/Time.cpp.s
 
 # Object files for target proj4
 proj4_OBJECTS = \
@@ -104,7 +104,7 @@ proj4: CMakeFiles/proj4.dir/lab4_main.cpp.o
 proj4: CMakeFiles/proj4.dir/Time.cpp.o
 proj4: CMakeFiles/proj4.dir/build.make
 proj4: CMakeFiles/proj4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable proj4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable proj4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/proj4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -116,6 +116,6 @@ CMakeFiles/proj4.dir/clean:
 .PHONY : CMakeFiles/proj4.dir/clean
 
 CMakeFiles/proj4.dir/depend:
-	cd "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj4/cmake-build-debug/CMakeFiles/proj4.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug" "/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/CMakeFiles/proj4.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/proj4.dir/depend
 
