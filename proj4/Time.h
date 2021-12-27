@@ -5,6 +5,7 @@
 #ifndef PROJ4_TIME_H
 #define PROJ4_TIME_H
 
+
 class Time {
 public:
         void read(const std::string& str);
