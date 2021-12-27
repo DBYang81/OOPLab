@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OOPLab"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OOPLab">
+				<Option output="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/cmake-build-debug/OOPLab" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/."/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 OOPLab"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OOPLab/fast">
+				<Option output="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/cmake-build-debug/OOPLab" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/."/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4"/>
+					<Add directory="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 OOPLab/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Volumes/EXTMACIN/Metropolia/Metro_Semester\ III/period\ II/C++/weekly_proj/OOPLab/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/LICENSE">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/README.md">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/CMakeLists.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/cmake-build-debug/CMakeCache.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/cmake-build-debug/Makefile">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/cmake-build-debug/Testing/Temporary/LastTest.log">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/cmake-build-debug/cmake_install.cmake">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/cmake-build-debug/intro_proj">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/cmake-build-debug/intro_proj.cbp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/introd.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj1/lab01.pdf">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/CMakeLists.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/cmake-build-debug/CMakeCache.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/cmake-build-debug/Makefile">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/cmake-build-debug/Testing/Temporary/LastTest.log">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/cmake-build-debug/cmake_install.cmake">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/cmake-build-debug/proj2">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/cmake-build-debug/proj2.cbp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/lab02.pdf">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/weather.xml">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2A/xmltemperature_pohja.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B/CMakeLists.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B/cmake-build-debug/CMakeCache.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B/cmake-build-debug/Makefile">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B/cmake-build-debug/Testing/Temporary/LastTest.log">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B/cmake-build-debug/cmake_install.cmake">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B/cmake-build-debug/proj2B">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B/cmake-build-debug/proj2B.cbp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj2B/lab2b.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/CMakeLists.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/cmake-build-debug/CMakeCache.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/cmake-build-debug/Makefile">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/cmake-build-debug/Testing/Temporary/LastTest.log">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/cmake-build-debug/cmake_install.cmake">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/cmake-build-debug/proj3">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/cmake-build-debug/proj3.cbp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/lab03.pdf">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3/proj3.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B/CMakeLists.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B/cmake-build-debug/CMakeCache.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B/cmake-build-debug/Makefile">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B/cmake-build-debug/Testing/Temporary/LastTest.log">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B/cmake-build-debug/cmake_install.cmake">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B/cmake-build-debug/proj3B">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B/cmake-build-debug/proj3B.cbp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj3B/proj3b.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/CMakeLists.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/Time.h">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/CMakeCache.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/Makefile">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/Testing/Temporary/LastTest.log">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/cmake_install.cmake">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/proj4">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/cmake-build-debug/proj4.cbp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/lab04.pdf">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj4/lab4_main.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/CMakeLists.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/Time.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/Time.h">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/cmake-build-debug/CMakeCache.txt">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/cmake-build-debug/Makefile">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/cmake-build-debug/Testing/Temporary/LastTest.log">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/cmake-build-debug/cmake_install.cmake">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/cmake-build-debug/proj5">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/cmake-build-debug/proj5.cbp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/lab05.pdf">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/proj5/lab5_main.cpp">
+			<Option target="OOPLab"/>
+		</Unit>
+		<Unit filename="/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/OOPLab/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
