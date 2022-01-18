@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj8/Person.h
+iostream
+-
+string
+-
+
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj8/Spy.cpp
+Spy.h
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj8/Spy.h
+utility
+-
+Person.h
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj8/Person.h
+
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj8/Spy.h
+Person.h
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj8/Person.h
+
