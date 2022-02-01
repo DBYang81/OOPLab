@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj12/UniqueRng.cpp
+UniqueRng.h
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj12/UniqueRng.h
+
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj12/UniqueRng.h
+iostream
+-
+
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj12/lab12_main.cpp
+UniqueRng.h
+/Volumes/EXTMACIN/Metropolia/Metro_Semester III/period II/C++/weekly_proj/proj12/UniqueRng.h
+vector
+-
+algorithm
+-
+
